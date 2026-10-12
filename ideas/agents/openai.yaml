@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ideas"
+  short_description: "Discover your interests and develop your own ideas"
+  default_prompt: "Use $ideas to interview me about my interests, goals, and knowledge, then help me discover ideas of my own."
